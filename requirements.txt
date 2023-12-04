@@ -1,0 +1,6 @@
+langchain
+llama-index
+pymongo
+nltk
+Pillow
+python-dotenv
