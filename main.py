@@ -1,6 +1,6 @@
-from database import storage_context
-from utils import read_pdf_from_link, print_menu, get_response
-from model import get_service_context
+from src import storage_context
+from src import read_pdf_from_link, print_menu, get_response
+from src import get_service_context
 
 import os
 import argparse
