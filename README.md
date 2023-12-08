@@ -7,6 +7,10 @@
     - Embedding Service: sentence-transformers
     - Framework: llama-index, langchain
 
+## .env
+    - DATABASE_URI: 'your-mongodb-uri'
+    - DATABASE_NAME: 'your-mongodb-database-name'
+
 ### run command:
 
     python main.py\
